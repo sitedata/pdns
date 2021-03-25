@@ -5,3 +5,4 @@ git+https://github.com/pieterlexis/sphinx-changelog@render-tags
 sphinxcontrib-fulltoc
 guzzle_sphinx_theme
 docutils!=0.15
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
